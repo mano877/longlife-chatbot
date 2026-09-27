@@ -1,0 +1,50 @@
+[
+  {
+    "category": "delivery",
+    "question": "Do you deliver outside Mansehra?",
+    "question_ur": "Kya aap Mansehra se bahar delivery karte hain? Sofa Lahore bhej sakte ho? Doosre shehar mein delivery hoti hai? Delivery kitne din mein hoti hai?",
+    "content": "Yes, we deliver across Pakistan. Delivery within the city takes 3-5 days; other cities 7-10 days."
+  },
+  {
+    "category": "returns",
+    "question": "What is your return policy?",
+    "question_ur": "Kya saman wapas ho sakta hai? Return policy kya hai? Toota hua furniture aaye to kya karein? Wapsi kaise hoti hai?",
+    "content": "Items can be returned within 7 days if damaged on arrival. Contact us with photos."
+  },
+  {
+    "category": "warranty",
+    "question": "Do you offer a warranty?",
+    "question_ur": "Kya warranty milti hai? Furniture ki guarantee kitni hai? Warranty kitne saal ki hai?",
+    "content": "Warranty details depend on the product. Please contact us with the product name for specific warranty information."
+  },
+  {
+    "category": "payment",
+    "question": "What payment methods do you accept?",
+    "question_ur": "Payment kaise karni hai? Kya cash on delivery hai? JazzCash ya bank transfer chalta hai? Paise kaise bhejein?",
+    "content": "We accept the payment methods currently available through Long Life Furnishers. Contact us to confirm payment options for your order."
+  },
+  {
+    "category": "contact",
+    "question": "How can I contact Long Life Furnishers?",
+    "question_ur": "Aap se rabta kaise karein? WhatsApp number kya hai? Aap ka contact number do. Baat kaise ho sakti hai?",
+    "content": "You can contact Long Life Furnishers through WhatsApp or the contact details provided on the website."
+  },
+  {
+    "category": "hours",
+    "question": "What are your showroom hours?",
+    "question_ur": "Dukaan kab khulti hai? Showroom ka time kya hai? Kitne baje band hoti hai? Aap kab tak khule hain?",
+    "content": "Our showroom hours are from 9AM-6PM. Please contact us before visiting."
+  },
+  {
+    "category": "custom_orders",
+    "question": "Do you make custom furniture?",
+    "question_ur": "Kya aap order par furniture banate hain? Apni pasand ka design banwa sakte hain? Custom size ka bed ban sakta hai?",
+    "content": "Yes, we take custom orders. Share your design, size and wood preference on WhatsApp for a quote."
+  },
+  {
+    "category": "location",
+    "question": "Where is your showroom?",
+    "question_ur": "Showroom kahan hai? Aap ki dukaan kidhar hai? Address kya hai? Location bhej do.",
+    "content": "Our showroom is at Burj Al Harmain Plaza, Main Shahrah-e-Resham Road, Mansehra."
+  }
+]

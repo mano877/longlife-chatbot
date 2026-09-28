@@ -7,7 +7,7 @@ app = FastAPI()
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["https://longlife.bizfatt.com"],
+    allow_origins=["https://longlife.bizfatt.com" , "www.longlife.bizfatt.com","http://localhost:5500"],
     allow_methods=["POST"],
     allow_headers=["*"],
 )

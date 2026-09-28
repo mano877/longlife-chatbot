@@ -2,6 +2,7 @@ import os, sys
 from dotenv import load_dotenv
 from groq import Groq
 from search import search
+import re
 
 load_dotenv()
 client = Groq(api_key=os.environ["GROQ_API_KEY"])
@@ -28,7 +29,7 @@ def answer(question):
         ],
         temperature=0.2,
     )
-    return resp.choices[0].message.content
+    return re.sub(r"\*\*|__|`", "", resp.choices[0].message.content)
 
 if __name__ == "__main__":
     print(answer(sys.argv[1]))
